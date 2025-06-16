@@ -1,0 +1,8 @@
+Brief Introduction About Myself
+
+I’m Aobakwe Notwane, a passionate and analytical student currently sharpening my skills in data science through the ALX Pathways Program.
+I’m fascinated by the power of data to uncover insights, drive decisions, and solve complex problems.
+Whether it’s wrangling datasets, building predictive models, or visualizing trends, I’m committed to mastering the tools and techniques that turn raw data into meaningful stories.
+
+When I’m not immersed in Python or SQL, you’ll find me exploring AI advancements, participating in data hackathons, or sharing my learning journey with others.
+I’m eager to connect with fellow data enthusiasts, collaborate on impactful projects, and contribute to a future shaped by data-driven innovation. Let’s learn and grow together
