@@ -1,0 +1,9 @@
+My Personal and Academic Goals for Next Year
+
+Master Core Skills – Gain proficiency in Python, SQL, statistical analysis, and machine learning to tackle real-world data problems.
+Build a Strong Portfolio – Complete hands-on projects (e.g., predictive models, data visualizations) to showcase my expertise.
+Learn from the Community – Engage in data hackathons, Kaggle competitions, and open-source projects to grow collaboratively.
+Develop Business Acumen – Understand how data science drives decisions in industries like healthcare, finance, or tech.
+Stay Curious & Updated – Keep up with AI/ML trends, research papers, and tools (e.g., TensorFlow, Tableau).
+Network & Mentor – Connect with peers and professionals, share knowledge, and seek guidance to accelerate my growth.
+Land an Internship/Role – Apply my skills in a real-world setting to gain experience and make an impact.
